@@ -224,13 +224,7 @@ small, .small {
   padding: 7px 20px;
   text-transform: uppercase;
 }
-#collapse{
-  display: none;
-}
 
-#collapse1{
-  display: none;
-}
 mark, .mark {
   padding: 0.2em;
   background-color: #fcf8e3;
